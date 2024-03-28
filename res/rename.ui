@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>备份查询工具     v2.1</string>
+   <string>备份查询工具     v2.2</string>
   </property>
   <property name="styleSheet">
    <string notr="true">* {
@@ -32,7 +32,7 @@
      </property>
      <layout class="QVBoxLayout" name="verticalLayout_5">
       <item>
-       <layout class="QHBoxLayout" name="horizontalLayout_30">
+       <layout class="QHBoxLayout" name="horizontalLayout_30" stretch="0,0,0">
         <item>
          <widget class="QComboBox" name="choseprovince">
           <item>
